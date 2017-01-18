@@ -1,6 +1,0 @@
-C:\Workspace\Tutoriales\LearnCS\LearnCS\bin\Debug\LearnCS.exe.config
-C:\Workspace\Tutoriales\LearnCS\LearnCS\bin\Debug\LearnCS.exe
-C:\Workspace\Tutoriales\LearnCS\LearnCS\bin\Debug\LearnCS.pdb
-C:\Workspace\Tutoriales\LearnCS\LearnCS\obj\Debug\LearnCS.csprojResolveAssemblyReference.cache
-C:\Workspace\Tutoriales\LearnCS\LearnCS\obj\Debug\LearnCS.exe
-C:\Workspace\Tutoriales\LearnCS\LearnCS\obj\Debug\LearnCS.pdb
