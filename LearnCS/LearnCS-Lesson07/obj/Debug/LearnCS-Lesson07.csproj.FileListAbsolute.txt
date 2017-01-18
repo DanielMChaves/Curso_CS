@@ -1,0 +1,6 @@
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson7\bin\Debug\LearnCS-Lesson7.exe.config
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson7\obj\Debug\LearnCS-Lesson7.exe
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson7\obj\Debug\LearnCS-Lesson7.pdb
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson07\bin\Debug\LearnCS-Lesson7.exe.config
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson07\obj\Debug\LearnCS-Lesson7.exe
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson07\obj\Debug\LearnCS-Lesson7.pdb
