@@ -1,0 +1,6 @@
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson13\bin\Debug\LearnCS-Lesson13.exe.config
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson13\bin\Debug\LearnCS-Lesson13.exe
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson13\bin\Debug\LearnCS-Lesson13.pdb
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson13\obj\Debug\LearnCS-Lesson13.exe
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson13\obj\Debug\LearnCS-Lesson13.pdb
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson13\obj\Debug\LearnCS-Lesson13.csprojResolveAssemblyReference.cache
