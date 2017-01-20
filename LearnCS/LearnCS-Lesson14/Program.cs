@@ -22,8 +22,13 @@ namespace Lesson14
 
         public class Customer
         {
-            public string Name { get; set; }
-            public List<Order> Orders { get; set; } = new List<Order>();
+            public Customer(string name)
+            {
+                Name = name;
+            }
+
+            public string Name { get; }
+            public List<Order> Orders { get; } = new List<Order>();
         }
 
         public class Order
@@ -32,19 +37,19 @@ namespace Lesson14
             {
                 OrderNumber = orderNumber;
             }
-            public string OrderNumber { get; set; }
+            public string OrderNumber { get; }
         }
 
         static void Main(string[] args)
         {
             Console.WriteLine("Lesson 14");
 
-            var customer1 = new Customer() { Name = "Steve" };
+            var customer1 = new Customer("Steve");
             customer1.Orders.Add(new Order("123"));
             customer1.Orders.Add(new Order("234"));
             customer1.Orders.Add(new Order("345"));
 
-            var customer2 = new Customer() { Name = "Eric" };
+            var customer2 = new Customer("Eric");
             customer2.Orders.Add(new Order("100"));
             customer2.Orders.Add(new Order("200"));
             customer2.Orders.Add(new Order("300"));
@@ -58,11 +63,12 @@ namespace Lesson14
                 Console.WriteLine(customer.Name);
                 Console.WriteLine("Cliente:");
                 orders = customer.Orders;
-                while (orders.Count > 0)
+                foreach (Order order in orders)
                 {
-                    Console.WriteLine(orders[0].OrderNumber);
-                    orders.RemoveAt(0); // No escribir código así
+                    Console.WriteLine(order.OrderNumber);
                 }
+                orders.Clear();
+
             }
             Console.WriteLine($"{customer1.Name}, Número de Ordenes: {customer1.Orders.Count}");
             Console.WriteLine($"{customer2.Name}, Número de Ordenes: {customer2.Orders.Count}");

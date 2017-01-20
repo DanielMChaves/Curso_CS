@@ -1,0 +1,7 @@
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson18-Unit\obj\Debug\LearnCS-Lesson18-Unit.csprojResolveAssemblyReference.cache
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson18-Unit\bin\Debug\LearnCS-Lesson18-Unit.dll
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson18-Unit\bin\Debug\LearnCS-Lesson18-Unit.pdb
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson18-Unit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson18-Unit\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson18-Unit\obj\Debug\LearnCS-Lesson18-Unit.dll
+C:\Workspace\Tutoriales\LearnCS\LearnCS-Lesson18-Unit\obj\Debug\LearnCS-Lesson18-Unit.pdb
